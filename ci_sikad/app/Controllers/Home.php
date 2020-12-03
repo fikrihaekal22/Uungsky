@@ -4,6 +4,7 @@ namespace App\Controllers;
 
 class Home extends BaseController
 {
+	// inisialisasi method index 
 	public function index()
 	{
 		$data = [
